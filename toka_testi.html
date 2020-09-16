@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {background-color:burlywood;}
+      h1 {color:blueviolet; font-size: 300% ;}
+      p {color:darkblue; font-family: courier;}
+    </style>
+  </head>
+  <title>HTML juttujen perusteita</title>
+  <body>
+    <h1>Sannan lila otsikko</h1>
+    <p>Ja hieman sinistä tekstiä</p>
+    <p style="color:red;"> Testinä inline muutos</p>
+
+    <button type="button" onclick="myFunction()">Paina tästä!</button>
+    <p id="demo">Pieni demo.</p>
+    <script>
+      function myFunction() { 
+        document.getElementById("demo").innerHTML = "Hei taas!";
+      }
+      </script>
+  </body>
+</html>
