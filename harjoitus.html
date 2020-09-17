@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title näkyy selaimen palkissa</title>
+    <link rel="stylesheet" href=testiTyyli.css>
+  </head>
+  <body>
+    <h1 id="sivunOtsikko">Otsikko</h1>
+    <p>Tähän muuta tekstia</p>
+    <button onclick="vaihdaTeksti()">Paina tästä</button>
+    <script>
+        function vaihdaTeksti(){
+            // alert("Nappia painettu!")
+            var otsikko = document.getElementById("sivunOtsikko");
+            otsikko.innerHTML = "Uusi otsikko Java Scriptin kautta!";
+        }
+    </script>
+  </body>
+</html>

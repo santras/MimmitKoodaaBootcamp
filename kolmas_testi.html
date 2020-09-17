@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML juttujen perusteita</title>
+    <link rel="stylesheet" href=toka_testi_css.css>
+  </head>
+
+  <body>
+
+    <button type="button" onclick="myFunction()">Otsikon muutos tästä!</button>
+    <h1 id="demo">Sannan lila otsikko</h1>
+    <script>
+      function myFunction() { document.getElementById("demo").innerHTML = "Kyllä se on violetti otsikko" ;  }
+    </script>
+
+    <p>Ja hieman sinistä tekstiä</p>
+    <p style="color:red;"> Testinä inline muutos</p>
+    <script src="toka_testi_scripti.js"></script>
+
+    <button type="button" onclick="myFunction2()">Paina myös tästä!</button>
+    <p id="demo2">Testaa toista tapaa</p>
+    <script src="toka_testi2.js"></script>
+  </body>
+</html>
