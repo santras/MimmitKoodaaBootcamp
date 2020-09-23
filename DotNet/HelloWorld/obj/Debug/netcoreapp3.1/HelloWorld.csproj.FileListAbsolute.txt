@@ -1,0 +1,13 @@
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\Ohjelmointi\MimmitKoodaaBootcamp\DotNet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
