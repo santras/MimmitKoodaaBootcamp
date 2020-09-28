@@ -22,22 +22,23 @@ body {
     width: 100%; /* Full width */
     /*padding: 20px;  Some padding */
   }
-  .card svg.material-icons path {
-    fill: #888;
-  }
 
+  /* .card svg.material-icons path {      Pikkuikonien värit buttoneissa
+    fill: #888;
+  } */
+ 
   .card-container {
-    display: flex;
+    display: flex;      /*Nämä rivit pitävät buttonit vierekkäin*/
     flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 16px;
+    justify-content: right; /*center*/
+    margin-top: 20px;
   }
 
   .card {
     border-radius: 4px;
-    border: 1px solid #eee;
-    background-color: #fafafa;
-    height: 40px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 30px;
     width: 200px;
     margin: 0 8px 16px;
     padding: 16px;
@@ -49,9 +50,9 @@ body {
     line-height: 24px;
   }
 
-  .card-container .card:not(:last-child) {
+  /* .card-container .card:not(:last-child) {     Ei aavistustakaan mitä tekee
     margin-right: 0;
-  }
+  } */
 
   .card.card-small {
     height: 16px;
