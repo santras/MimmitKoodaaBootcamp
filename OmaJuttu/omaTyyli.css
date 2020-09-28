@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Arial;
+    background-color: #cccccc;
   }
   
   .taustaKuva {
@@ -13,6 +14,8 @@ body {
     width: 100%; /* Full width */
     position: relative;
   }
+
+
   .taustaKuva .tekstiBoxi {
     position: absolute; /* Position the background text */
     bottom: 0; /* At the bottom. Use top:0 to append it to the top */
@@ -84,6 +87,12 @@ body {
 
   .card.card.highlight-card span {
     margin-left: 60px;
+  }
+
+  .toinenSivu{
+    background-color:#cccccc;
+    /* h1 {color:blueviolet; font-size: 300% ;}
+    p {color:darkblue; font-family: courier;} */
   }
   
   /* .hero-text {
